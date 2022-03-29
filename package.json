@@ -4,6 +4,9 @@
   "description": "A Next-JS app for creating family trees",
   "main": "index.js",
   "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start",
     "test": "test"
   },
   "repository": {
