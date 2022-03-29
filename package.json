@@ -1,0 +1,19 @@
+{
+  "name": "family-tree-builder",
+  "version": "1.0.0",
+  "description": "A Next-JS app for creating family trees",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirandaBrawnerSavannah/family-tree-builder.git"
+  },
+  "author": "Miranda Brawner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirandaBrawnerSavannah/family-tree-builder/issues"
+  },
+  "homepage": "https://github.com/MirandaBrawnerSavannah/family-tree-builder#readme"
+}
