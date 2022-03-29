@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/MirandaBrawnerSavannah/family-tree-builder/issues"
   },
-  "homepage": "https://github.com/MirandaBrawnerSavannah/family-tree-builder#readme"
+  "homepage": "https://github.com/MirandaBrawnerSavannah/family-tree-builder#readme",
+  "dependencies": {
+    "next": "^12.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
